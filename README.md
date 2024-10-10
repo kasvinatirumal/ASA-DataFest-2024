@@ -6,3 +6,4 @@ Next, we implemented a **multiple linear regression model** that predicts a stud
 
 Lastly, we designed **visualizations** to showcase key insights, including total engagement time trends across all chapters for the three textbooks, and the frequency distribution of question types within each chapter.
 
+Our group won "Best Use of External Data" in ASA DataFest 2024!
